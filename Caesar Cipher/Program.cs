@@ -42,7 +42,7 @@ namespace ConsoleApp1
                         letraBase2 = aux2;
                         escrever.Write(aux2);
                     }
-                    escrever.WriteLine("\n");
+                    escrever.Write("\n");
                 }
 
             } while (letraBase != null);
